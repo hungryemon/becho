@@ -1,0 +1,1 @@
+export 'package:becho/constants/colors.dart';
